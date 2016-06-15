@@ -9,5 +9,6 @@ public class HelloWorld {
 		System.out.println("Earth's End Dancehall");
 		System.out.println("Hello Dance World");
 		System.out.println("Hello master branch");
+		System.out.println("Hello hotfix branch");
 	}
 }
