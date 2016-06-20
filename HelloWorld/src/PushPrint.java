@@ -6,5 +6,6 @@ public class PushPrint {
 		System.out.println("World with Yunhee");
 		System.out.println("Local Change again");
 		System.out.println("Local 1");
+		System.out.println("Remote 1");
 	}
 }
