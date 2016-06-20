@@ -5,5 +5,6 @@ public class PushPrint {
 		System.out.println("Add Java Class File Push Again");
 		System.out.println("World with Yunhee");
 		System.out.println("Local Change again");
+		System.out.println("Local 1");
 	}
 }
